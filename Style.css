@@ -1,7 +1,35 @@
-pre {font-family: Arial, sans-serif;}
-h1 {font-family: Didot, Cambria;
-color: #112d4e;}
-p {font-family: Calibri, sans-serif;}
-body {background-color: #dbe2ef;}
-h3 {font-family: Arial;
-font-size: 20px;}
+pre {
+  font-family: Arial, sans-serif;
+}
+
+h1 {
+  font-family: Didot, Cambria;
+  color: #112d4e;
+}
+
+p {
+  font-family: Calibri, sans-serif;
+}
+
+body {
+  background-color: #cae8d5;
+}
+
+h3 {
+  font-family: Arial;
+  font-size: 20px;
+}
+
+hr {
+  background-color: #204051;
+  border-style: none;
+  height: 5px;
+}
+
+img {
+  border-radius: 50%;
+  border-style: solid;
+  border-color: black;
+  border-width: 1px;
+  background-color: #204051;
+}
